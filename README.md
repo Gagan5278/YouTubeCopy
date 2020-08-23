@@ -6,3 +6,5 @@
 ### Screenshots
 
 ![Simulator Screen Shot - iPhone 11 Pro - 2020-08-23 at 16 02 52](https://user-images.githubusercontent.com/2304583/90980221-6dca1900-e55a-11ea-98d8-ce27d7b7368c.png)
+
+![Simulator Screen Shot - iPhone 11 Pro - 2020-08-23 at 16 01 46](https://user-images.githubusercontent.com/2304583/90980227-77538100-e55a-11ea-99a7-893b33302ae1.png)
